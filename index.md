@@ -4,18 +4,19 @@ title: Northeast Association
 permalink: /
 ---
 
-## 2017 Northeast Association Annual Meeting\
-Celebrate the Local Church\
-Saturday, April 22, 2017\
-9:00 am - 2:00 pm {#header style="text-align:center;"}
+## 2017 Northeast Association Annual Meeting
+
+Celebrate the Local Church  
+Saturday, April 22, 2017  
+9:00 am - 2:00 pm
  
 You are cordially invited to attend the 55th Annual Meeting 
 of the Northeast Association of the 
 Wisconsin Conference of the United Church of Christ
 
-First Congregational Church\
-220 Ransom Street\
-Ripon, Wisconsin 54971\
+First Congregational Church  
+220 Ransom Street  
+Ripon, Wisconsin 54971  
 920-748-5898
  
 Join us for a day of worship, fellowship and business with our brothers and sisters of the Northeast Association. Our day will highlight the local church and the variety of ministries to be found there. We will hear from local congregations as they share new and innovative ways they are proclaiming the gospel and being the church. 
