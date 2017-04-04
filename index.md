@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Northeast Association
+title: Northeast Association Home Page
 permalink: /
 ---
 
