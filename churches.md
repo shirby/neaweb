@@ -1,7 +1,7 @@
---
+---
 layout: default
 permalink: /northeast-association/churches/
-title: Churches in the Northeast Association
+title: Churches in the Wisconsin Northeast Association
 ---
 
 ##Churches in Wisconsin Northeast Association
