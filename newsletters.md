@@ -4,7 +4,7 @@ permalink: /northeast/news/newsletters/
 title: Newsletter Archive
 ---
 
-### \[Sign Up to Receive the Northeast Association Newsletter - embed form here\] {#news-sign-up}
+### \[Sign Up to Receive the Northeast Association Newsletter - embed form here\]
 
 ## Back Issues
 
