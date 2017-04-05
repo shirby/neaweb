@@ -17,9 +17,7 @@
         <h1>{{ page.title | default: site.title }}</h1>
         <p>{{ site.description | default: site.github.project_tagline }}</p>
 
-        {% include nav.html %}
-
-        {% if site.github.is_project_page %}
+         {% if site.github.is_project_page %}
           <p class="view"><a href="{{ site.github.repository_url }}">View the Project on GitHub <small>{{ github_name }}</small></a></p>
         {% endif %}
 
@@ -35,7 +33,8 @@
           </ul>
         {% endif %}
       </header>
-      <section>
+        {% include nav.html %}
+     <section>
 
       {{ content }}
 
