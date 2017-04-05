@@ -1,10 +1,10 @@
 ---
 layout: default
 title: Resources
-permalink: /northeast/resources
+permalink: /northeast/resources/
 ---
 
-## 2017 Camp Scholarships![UCCI Logo](http://www.wcucc.org/wp-content/uploads/2016/08/UCCI-logo.jpg){style="float:right;margin-left:10px;"}
+## 2017 Camp Scholarships![UCCI Logo](http://www.wcucc.org/wp-content/uploads/2016/08/UCCI-logo.jpg)
 
 The Division of Local Church Ministries provides automatic scholarships for &hellip;
 
