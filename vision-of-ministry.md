@@ -15,8 +15,8 @@ This vision of ministry for the Northeast Association was adopted by its Executi
 
 1. Recruit and equip volunteer teams to assist with conflict resolution in local churches (under way)
 2. Convene informative gatherings from time to time for clergy. Pertinent, timely topics include
-    a. Finding a basis for unity in a time of division
-    b. Survival of small churches
+    * a. Finding a basis for unity in a time of division
+    * b. Survival of small churches
 3. Develop ways for clergy to come together in clusters to provide mutual support
 
 ## Support of lay leadership
