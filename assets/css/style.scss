@@ -16,6 +16,19 @@ header {
     padding-left:520px;
 }
 
+
+/* put nav in the right sidebar also */
+nav {
+  width:270px;
+  float:right;
+  position:fixed;
+  -webkit-font-smoothing:subpixel-antialiased;
+}
+
+nav {
+    padding-left:520px;
+}
+
 footer {
   width:270px;
   float:right;
