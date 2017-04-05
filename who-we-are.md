@@ -2,10 +2,12 @@
 layout: default
 title: Northeast Association
 permalink: northeast/who-we-are/
-Geography
----------
+---
 
 ## Welcome to the Northeast Wisconsin Association of the United Church of Christ
+
+Geography
+---------
 
 The Association is made up of 58 congregations. It extends geographically from Marinette in the north to Sheboygan in the south, and as far west as Waupun and Hancock. \[map?\]
 
