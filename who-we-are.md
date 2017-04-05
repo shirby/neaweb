@@ -19,7 +19,7 @@ The mission of the Association is to:
 
 -   Promote Christian fellowship among its members
 
--   Provide leadership, training, and support for shared ministries of the Local churches
+-   Provide leadership, training, and support for shared ministries of its local churches
 
 -   Express concern for the welfare of local churches, their ministers, and members
 
@@ -27,7 +27,7 @@ The mission of the Association is to:
 
 ### Authorization for Ministry and Standing of Local Churches
 
-These responsibilities in the United Church of Christ are vested in Associations. The Northeast Association Committee on Ministry \[link to description of COM\], authorizes, oversees, and supports our pastors, churches, and commissioned ministers.
+In the United Church of Christ, these responsibilities are vested in Associations. The Northeast Association Committee on Ministry \[link to description of COM\], authorizes, oversees, and supports our pastors, churches, and commissioned ministers.
 
 ### Current Priorities
 
