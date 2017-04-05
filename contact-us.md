@@ -23,12 +23,12 @@ Wider Church Division Chair: \[vacant\]
 
 ## Other Contacts
 
-Placement and Transition Committee Chair: Ray Beilke\ [rbeilke@gmail.com](mailto:rbeilke@gmail.com)
+Placement and Transition Committee Chair: Ray Beilke [rbeilke@gmail.com](mailto:rbeilke@gmail.com)
 
-Periodic Support and Consultation Committee Chair: Dwight Sattler \ [mary.dwight48@gmail.com](mailto:mary.dwight48@gmail.com)
+Periodic Support and Consultation Committee Chair: Dwight Sattler [mary.dwight48@gmail.com](mailto:mary.dwight48@gmail.com)
 
-Pastor and Church Ethics Committee Chair: Rev. Ted Drewsen \ [ted@pilgrimuccfdl.org](mailto:ted@pilgrimuccfdl.org)
+Pastor and Church Ethics Committee Chair: Rev. Ted Drewsen [ted@pilgrimuccfdl.org](mailto:ted@pilgrimuccfdl.org)
 
 Nominating Committee: Letha Haucke [ghaucke@wi.rr.com](mailto:ghaucke@wi.rr.com)
 
-NEA _Updates_ Editor: Rev. Daniel Schultz \ [pastordanschultz@gmail.com](mailto:pastordanschultz@gmail.com)
+NEA _Updates_ Editor: Rev. Daniel Schultz [pastordanschultz@gmail.com](mailto:pastordanschultz@gmail.com)
