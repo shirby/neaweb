@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Northeast Association
-permalink: northeast/who-we-are/
+permalink: /northeast/who-we-are/
 ---
 
 ## Welcome to the Northeast Wisconsin Association of the United Church of Christ
