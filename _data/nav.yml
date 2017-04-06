@@ -1,5 +1,10 @@
-- title: "Home"
-  href: "/"
+- title: "Who We Are"
+  href: "/who-we-are/"
+  subcategories:
+    - subtitle: "Associate Conference Minister"
+      subhref: /who-we-are/associate-conference-minister/
+    - subtitle: "Contact Us"
+      subhref: /who-we-are/contact-us/
 
 - title: "News"
   href: "/news/"
