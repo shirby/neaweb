@@ -1,7 +1,7 @@
 ---
 title: Churches in Wisconsin Northeast Association
 layout: default
-permalink: /northeast-association/churches/
+permalink: /northeast/churches/
 ---
 ## Appleton
 
