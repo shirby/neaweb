@@ -1,10 +1,10 @@
 - title: "Who We Are"
-  href: "/who-we-are/"
+  href: "/neaweb/who-we-are/"
   subcategories:
     - subtitle: "Associate Conference Minister"
-      subhref: /who-we-are/associate-conference-minister/
+      subhref: "/neaweb/who-we-are/associate-conference-minister/"
     - subtitle: "Contact Us"
-      subhref: /who-we-are/contact-us/
+      subhref: "/neaweb/who-we-are/contact-us/
 
 - title: "News"
   href: "/news/"
