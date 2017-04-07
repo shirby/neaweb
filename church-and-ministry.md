@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Church and Ministry
-permalink: /northeast/what-we-do/church-and-mnistry/
+permalink: /northeast/what-we-do/church-and-ministry/
 ---
 
 Per the Constitution and Bylaws of the United Church of Christ, Associations are responsible for authorization
