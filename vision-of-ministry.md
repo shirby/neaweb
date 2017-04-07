@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 2017 Vision of Ministry
-permalink: /northeast/2017-vision-of-ministry/
+permalink: /northeast/what-we-do/2017-vision-of-ministry/
 ---
 
 This vision of ministry for the Northeast Association was adopted by its Executive Committee in meeting on February 2, 2017.
