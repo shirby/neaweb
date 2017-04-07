@@ -1,5 +1,5 @@
 ---
-permalink: /northeast/what-we-do/wider-church/
+permalink: /neaweb/northeast/what-we-do/wider-church/
 layout: default
 Title: Wider Church Division
 ---
