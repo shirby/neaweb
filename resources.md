@@ -4,7 +4,7 @@ title: Resources
 permalink: /northeast/resources/
 ---
 
-## 2017 Camp Scholarships![UCCI Logo](/northeast/assets/images/ucci-logo.jpg)
+## 2017 Camp Scholarships![UCCI Logo]({{site.url}}/neaweb/assets/images/ucci-logo.jpg)
 
 The Division of Local Church Ministries provides automatic scholarships for &hellip;
 
