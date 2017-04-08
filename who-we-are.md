@@ -4,7 +4,7 @@ title: Northeast Association
 permalink: /northeast/who-we-are/
 ---
 
-## Welcome to the Northeast Wisconsin Association of the United Church of Christ
+## Welcome to the Northeast Wisconsin Association of the United Church of Christ![Map of the NEA]({site.url}/neaweb/assets/images/neamap.png)
 
 Geography
 ---------
