@@ -6,7 +6,7 @@ title: What We Do
 
 ## Purposes
 
-The Association is part of the Wisconsin Conference of the United Church of Christ and exists in a covenant relationship with it and with the national setting of the United Church of Christ and local churches.
+The Association is part of the Wisconsin Conference of the United Church of Christ and exists in a covenantal relationship with it as well as with the national setting of the United Church of Christ and local churches.
 
 The mission of the Association is to:
 
