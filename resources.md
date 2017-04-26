@@ -13,7 +13,7 @@ The Division of Local Church Ministries provides automatic scholarships for &hel
 
 &hellip; to members of all UCC churches in the Association.
 
-\[probably we need some explanation here of the details of the program, level of scholarship, qualifications, how paid, etc.\]
+Youth and family camp scholarships are awarded automatically upon registering for camp at either Pilgrim Center or Moon Beach. Attendees at half-week youth camps are awarded $50, while full-week youth camp awards are $100. Families registering for family camp receive $45 for half-week events, and $150 for a full week of camp. If a family does not require a scholarship, it can be declined at the time of registration, to preserve the funds for other youth.
 
 To learn more about United Church Camps Outdoor Ministry and view the 2017 Schedule [click here](https://www.ucci.org/).
 
