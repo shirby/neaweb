@@ -9,13 +9,18 @@ permalink: /northeast/resources/
 The Division of Local Church Ministries provides automatic scholarships for &hellip;
 
 * camping and youth faith formation programs at [Moon Beach or Pilgrim Center](http://ucci.org)
+* national and regional youth events
 * [Lay Academy](http://www.wcucc.org/programs-education/lay-academy/) courses.
 
 &hellip; to members of all UCC churches in the Association.
 
-Youth and family camp scholarships are awarded automatically upon registering for camp at either Pilgrim Center or Moon Beach. Attendees at half-week youth camps are awarded $50, while full-week youth camp awards are $100. Families registering for family camp receive $45 for half-week events, and $150 for a full week of camp. If a family does not require a scholarship, it can be declined at the time of registration, to preserve the funds for other youth.
+Youth and family camp scholarships are awarded automatically upon registering for camp at either Pilgrim Center or Moon Beach. Attendees at half-week youth camps are awarded $50, while full-week youth camp awards are $100. Families registering for family camp receive $45 for half-week events, and $150 for a full week of camp. If a family does not require a scholarship, it can be declined at the time of registration, to preserve the funds for other youth. We also support Faith Formation Retreats presented by the Conference for NEA youth through automatic scholarships of $50 per student.
 
 To learn more about United Church Camps Outdoor Ministry and view the 2017 Schedule [click here](https://www.ucci.org/).
+
+Scholarships applied to the registration costs for teens attending UCC Youth Events (i.e. Regional and National Youth Events, and Youth Trip to General Synod) are also available, upon application. Scholarship amounts for these events vary.
+
+Local Church Ministries also encourages the faith growth of adults attending Lay Academy. These adults receive an automatic $100 per-year stipend for tuition, room, and board.
 
 ---
 
