@@ -8,7 +8,7 @@ The Bylaws of the Northeast Association (in Section 8.7) describe the work of th
 
 > The Division on Wider Church Ministries encourages and equips Local Churches for ministries beyond their local congregations by providing resources and training related to the relationship of the Local Church to the wider Church [sic], including mission, evangelism, social justice, global partnerships, scholarships for wider church opportunities, and interpretation of Our Church’s Wider Mission support.
 
-In carrying out this mision, the Division has recently worked on creating a grant request process, and then distributing grants, for funds in Association churches in three areas:
+In carrying out this mision, the Division has recently worked on creating a grant request process, and then distributing grants, for projects in Association churches in three areas:
 
 - Program and event funding
 - New directions in mission
