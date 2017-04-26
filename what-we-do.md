@@ -4,8 +4,6 @@ layout: default
 title: What We Do
 ---
 
-## Purposes
-
 The Association is part of the Wisconsin Conference of the United Church of Christ and exists in a covenantal relationship with it as well as with the national setting of the United Church of Christ and local churches.
 
 The mission of the Association is to:
@@ -18,10 +16,10 @@ The mission of the Association is to:
 
 -   Help those in difficult situations.
 
-### Authorization for Ministry and Standing of Local Churches
+## Authorization for Ministry and Standing of Local Churches
 
 In the United Church of Christ, these responsibilities are vested in Associations. The Northeast Association [Division of Church and Ministry](/northeast/what-we-do/church-and-ministry/), authorizes, oversees, and supports our pastors, churches, and commissioned ministers.
 
-### Current Priorities
+## Current Priorities
 
-These are described in our current [Vision of Ministry](about:blank)
+These are described in our current [Vision of Ministry](/northeast/what-we-do/2017-vision-of-ministry/)
