@@ -1,7 +1,7 @@
 ---
 permalink: /northeast/what-we-do/wider-church/
 layout: default
-Title: Wider Church Division
+title: Wider Church Division
 ---
 
 The Bylaws of the Northeast Association (in Section 8.7) describe the work of the Division as follows:
