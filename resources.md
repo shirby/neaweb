@@ -4,13 +4,13 @@ title: Resources
 permalink: /northeast/resources/
 ---
 
-## 2017 Camp Scholarships![UCCI Logo]({{site.url}}/neaweb/assets/images/ucci-logo.jpg)
+## 2017 Scholarships![UCCI Logo]({{site.url}}/neaweb/assets/images/ucci-logo.jpg)
 
 The Division of Local Church Ministries provides automatic scholarships for &hellip;
 
-* camping and youth faith formation programs at [Moon Beach or Pilgrim Center](http://ucci.org)
-* national and regional youth events
-* [Lay Academy](http://www.wcucc.org/programs-education/lay-academy/) courses.
+* Camping and youth faith formation programs at [Moon Beach or Pilgrim Center](http://ucci.org)
+* National and regional youth events
+* [Lay Academy](http://www.wcucc.org/programs-education/lay-academy/) participation.
 
 &hellip; to members of all UCC churches in the Association.
 
