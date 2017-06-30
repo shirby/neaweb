@@ -6,10 +6,11 @@
 /* Override to move left sidebar to the right */
 /* Sidebar includes <header> and <footer> sections */
 header {
-  width:270px;
-  float:right;
+  width:520px;
+  float:left;
   /* position:fixed; */
   margin-top:0px;
+  margin-right:10px;
   -webkit-font-smoothing:subpixel-antialiased;
 }
 
