@@ -3,8 +3,6 @@
 
 @import "{{ site.theme }}";
 
-* {position:relative;}
-
 /* Override to move left sidebar to the right */
 /* Sidebar includes <header> and <footer> sections */
 header {
@@ -14,6 +12,7 @@ header {
   margin-top:0px;
   margin-right:10px;
   -webkit-font-smoothing:subpixel-antialiased;
+  position:relative;
 }
 
 header {
