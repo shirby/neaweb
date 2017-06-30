@@ -3,6 +3,8 @@
 
 @import "{{ site.theme }}";
 
+* {position:absolute;}
+
 /* Override to move left sidebar to the right */
 /* Sidebar includes <header> and <footer> sections */
 header {
