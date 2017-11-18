@@ -24,4 +24,4 @@ Scholarships applied to the registration costs for teens attending UCC Youth Eve
 
 ### Lay Academy
 
-Local Church Ministries also encourages the faith growth of adults attending Lay Academy. These adults receive an automatic $100 per-year stipend for tuition, room, and board.
+Local Church Ministries also encourages the growth in faith of adults attending Lay Academy. These adults receive an automatic $100 per-year stipend for tuition, room, and board.
