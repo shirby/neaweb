@@ -17,9 +17,7 @@ Treasurer: Barbara Uehling [buehling@gmail.com](mailto:buehling@gmail.com)
 
 Church and Ministry Division Chair: Rev. Dorothy Mendonca  [mendonca@dcwis.com](mailto:mendonca@dcwis.com)
 
-Local Church Division Co-Chair: Gloria Kjer [kjerglo@outlook.com](mailto:kjerglo@outlook.com)
-
-Local Church Division Co-Chair: Marsha Meyer [mrsmapemera@gmail.com](mailto:mrsmapemera@gmail.com)
+Local Church Division Co-Chairs: Gloria Kjer [kjerglo@outlook.com](mailto:kjerglo@outlook.com) & Marsha Meyer [mrsmapemera@gmail.com](mailto:mrsmapemera@gmail.com)
 
 Wider Church Division Chair: \[vacant\]
 
@@ -27,9 +25,7 @@ Wider Church Division Chair: \[vacant\]
 
 Placement and Transition Committee Chair: Ray Beilke [rbeilke@gmail.com](mailto:rbeilke@gmail.com)
 
-Periodic Support and Consultation Committee Co-Chair: Rev. Paul Anderson [paula2651@frontier.com](mailto:paula2651@frontier.com)
-
-Periodic Support and Consultation Committee Co-Chair: Rev. Greg Whelton [revgreg@charter.net](mailto:revgreg@charter.net)
+Periodic Support and Consultation Committee Co-Chairs: Rev. Paul Anderson [paula2651@frontier.com](mailto:paula2651@frontier.com) & Rev. Greg Whelton [revgreg@charter.net](mailto:revgreg@charter.net)
 
 Pastor and Church Ethics Committee Chair: Rev. Ted Drewsen [ted.drewsen@pilgrimuccfdl.org](mailto:ted.drewsen@pilgrimuccfdl.org)
 
