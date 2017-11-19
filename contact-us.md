@@ -5,30 +5,30 @@ permalink: /northeast/who-we-are/contact-us/
 ---
 ## Your Executive Committee
 
-Associate Conference Minister: Rev. Jane Anderson  [janderson@wcucc.org](mailto:janderson@wcucc.org)
+**Associate Conference Minister:** Rev. Jane Anderson  [janderson@wcucc.org](mailto:janderson@wcucc.org)
 
-Moderator: Rev. Andi Wolf [revandiwolf@gmail.com](mailto:revandiwolf@gmail.com)
+**Moderator:** Rev. Andi Wolf [revandiwolf@gmail.com](mailto:revandiwolf@gmail.com)
 
-Vice-Moderator: Wally Schmidt [schmidtwm@charter.net](mailto:schmidtwm@charter.net)
+**Vice-Moderator:** Wally Schmidt [schmidtwm@charter.net](mailto:schmidtwm@charter.net)
 
-Secretary: Mary Schultz [mryschulz@yahoo.com](mailto:mryschulz@yahoo.com)
+**Secretary:** Mary Schultz [mryschulz@yahoo.com](mailto:mryschulz@yahoo.com)
 
-Treasurer: Barbara Uehling [buehling@gmail.com](mailto:buehling@gmail.com)
+**Treasurer:** Barbara Uehling [buehling@gmail.com](mailto:buehling@gmail.com)
 
-Church and Ministry Division Chair: Rev. Dorothy Mendonca  [mendonca@dcwis.com](mailto:mendonca@dcwis.com)
+**Church and Ministry Division Chair:** Rev. Dorothy Mendonca  [mendonca@dcwis.com](mailto:mendonca@dcwis.com)
 
-Local Church Division Co-Chairs: Gloria Kjer [kjerglo@outlook.com](mailto:kjerglo@outlook.com) & Marsha Meyer [mrsmapemera@gmail.com](mailto:mrsmapemera@gmail.com)
+**Local Church Division Co-Chairs:** Gloria Kjer [kjerglo@outlook.com](mailto:kjerglo@outlook.com) • Marsha Meyer [mrsmapemera@gmail.com](mailto:mrsmapemera@gmail.com)
 
-Wider Church Division Chair: \[vacant\]
+**Wider Church Division Chair:** \[vacant\]
 
 ## Other Contacts
 
-Placement and Transition Committee Chair: Ray Beilke [rbeilke@gmail.com](mailto:rbeilke@gmail.com)
+**Placement and Transition Committee Chair:** Ray Beilke [rbeilke@gmail.com](mailto:rbeilke@gmail.com)
 
-Periodic Support and Consultation Committee Co-Chairs: Rev. Paul Anderson [paula2651@frontier.com](mailto:paula2651@frontier.com) & Rev. Greg Whelton [revgreg@charter.net](mailto:revgreg@charter.net)
+**Periodic Support and Consultation Committee Co-Chairs:** Rev. Paul Anderson [paula2651@frontier.com](mailto:paula2651@frontier.com) • Rev. Greg Whelton [revgreg@charter.net](mailto:revgreg@charter.net)
 
-Pastor and Church Ethics Committee Chair: Rev. Ted Drewsen [ted.drewsen@pilgrimuccfdl.org](mailto:ted.drewsen@pilgrimuccfdl.org)
+**Pastor and Church Ethics Committee Chair:** Rev. Ted Drewsen [ted.drewsen@pilgrimuccfdl.org](mailto:ted.drewsen@pilgrimuccfdl.org)
 
-Nominating Committee: Letha Haucke [ghaucke@wi.rr.com](mailto:ghaucke@wi.rr.com)
+**Nominating Committee Chair:* Letha Haucke [ghaucke@wi.rr.com](mailto:ghaucke@wi.rr.com)
 
-NEA _Updates_ Editor: Rev. Daniel Schultz [pastordanschultz@gmail.com](mailto:pastordanschultz@gmail.com)
+**NEA _Updates_ Editor:** Rev. Daniel Schultz [pastordanschultz@gmail.com](mailto:pastordanschultz@gmail.com)
