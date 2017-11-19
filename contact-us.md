@@ -29,6 +29,6 @@ permalink: /northeast/who-we-are/contact-us/
 
 **Pastor and Church Ethics Committee Chair:** Rev. Ted Drewsen [ted.drewsen@pilgrimuccfdl.org](mailto:ted.drewsen@pilgrimuccfdl.org)
 
-**Nominating Committee Chair:* Letha Haucke [ghaucke@wi.rr.com](mailto:ghaucke@wi.rr.com)
+**Nominating Committee Chair:** Letha Haucke [ghaucke@wi.rr.com](mailto:ghaucke@wi.rr.com)
 
 **NEA _Updates_ Editor:** Rev. Daniel Schultz [pastordanschultz@gmail.com](mailto:pastordanschultz@gmail.com)
